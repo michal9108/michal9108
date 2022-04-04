@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - sedivka9108@gmail.com
-- +420 606 216 059
-- +421 948 015 409
+- 
 
 <!---
 michal9108/michal9108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
