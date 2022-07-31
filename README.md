@@ -1,2 +1,2 @@
-- html, css, javaScript, React, Angular, Vue.js
+html, css, javaScript, React, Angular, Vue.js
 
