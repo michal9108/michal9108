@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm miško</h1>
 <h3 align="center">FE Dev, Freelancer, lover, avid reader</h3>
 
-                                                                         .-.
-                                            (___________________________()6 `-,
-                                            (   ______________________   /''"`
-                                            //\\                      //\\
-                                            "" ""                     "" ""
-
 <h3 align="left"> 🔨 Languages and technologies:</h3>
 <p align="left">  
 
