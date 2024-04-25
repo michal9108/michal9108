@@ -44,18 +44,7 @@
     <li><strong>Prettier</strong>: Opinionated code formatter</li>
 </ul>
 
-<h2>Demo Projects</h2>
-<ul style="list-style-type: none; padding-left: 0; margin-left: 0;">
-    <strong><a href="https://supplements-ecommerce-five.vercel.app/">Supplements Ecommerce Store</a></strong> <br>Simple Responsive Full-Stack app  - using Typescript, React and Tailwind on FE and node.js, express, mongoDB on BE with integrated Stripe payments gateway and User Authentification. Mongoose DB data modeling.Routing done through React router. State management done through React useContext hook. FE Deployed on Vercel,  BE deployed on Fly.io</br>
- <strong><a href="https://mern-dashboard-fullstack.vercel.app/dashboard">Marketing Dashboard app</a></strong><br>Simple responsive tracking Full-Stack app - using Typescript, React, MUI lib on  client side and node.js, express, mongoDB on server side with integrated User Authentification. Dark\light theme. FE Deployed on Vercel, BE deployed on Fly.io</br>
 
-</ul>
-
-<h2>Contact Me</h2>
-<ul>
-    <li><a href="https://miskokdesi.sk">Portfolio</a></li>
-    <li><a href="work@miskokdesi.sk">Email</a></li>
-</ul>
 
 </body>
 </html>
