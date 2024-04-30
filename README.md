@@ -12,7 +12,7 @@
     <li><strong>React</strong>: JavaScript library for building user interfaces</li>
     <li><strong>TypeScript</strong>: Typed superset of JavaScript</li>
     <li><strong>Tailwind CSS</strong>: Utility-first CSS framework</li>
-    <li><strong>React Router</strong>: Declarative routing for React applications</li>
+    <li><strong>React Router v6</strong>: Declarative routing for React applications</li>
     <li><strong>Headless UI</strong>: Unstyled, fully accessible UI components</li>
     <li><strong>MUI Materials</strong>: The React component library</li>
     <li><strong>Recharts</strong>:Composable charting library built on React components</li>
