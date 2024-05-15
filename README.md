@@ -3,8 +3,6 @@
 
 <body>
 
-
-
 <h2>Technologies & Tools used for the projects</h2>
 
 <h3>Frontend</h3>
@@ -15,7 +13,6 @@
     <li><strong>React Router v6</strong>: Declarative routing for React applications</li>
     <li><strong>Headless UI</strong>: Unstyled, fully accessible UI components</li>
     <li><strong>MUI Materials</strong>: The React component library</li>
-    <li><strong>Recharts</strong>:Composable charting library built on React components</li>
 </ul>
 
 <h3>Backend</h3>
@@ -43,8 +40,5 @@
     <li><strong>ESLint</strong>: Pluggable linting utility for JavaScript</li>
     <li><strong>Prettier</strong>: Opinionated code formatter</li>
 </ul>
-
-
-
 </body>
 </html>
